@@ -7,7 +7,6 @@
 
 ## Recursos da API
 
-* [Transações v](recursos-da-api/transacoes-v.md)
 * [Transações](recursos-da-api/transacoes.md)
 * [Unidades](recursos-da-api/unidades.md)
 * [Colaboradores](recursos-da-api/colaboradores.md)

@@ -18,7 +18,7 @@ O ambos são chaves que deverão ser informada no header para autorização de c
 1- Necessário obter uma chave de conexão (**x-solucx-api-key**) e token (**x-solucx-user-token**) ao aplicativo com a equipe técnica da SoluCX.
 
 {% hint style="warning" %}
-**`x-solucx-api-key`**e **`x-solucx-user-token`** são obrigatórios em todas as chamadas
+**`x-solucx-api-key`**&#x65; **`x-solucx-user-token`** são obrigatórios em todas as chamadas
 {% endhint %}
 
 2- Criar unidades de referência que serão avaliadas pelo cliente.\
