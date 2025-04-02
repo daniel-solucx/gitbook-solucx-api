@@ -15,6 +15,10 @@
 * [Auth](recursos-da-api/auth.md)
 * [Boas Práticas](recursos-da-api/boas-praticas.md)
 
+***
+
+* [Resources (english)](resources-english.md)
+
 ## Tutoriais
 
 * [Alteração de autenticação](tutoriais/alteracao-de-autenticacao.md)
