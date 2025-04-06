@@ -1,9 +1,13 @@
 # Table of contents
 
 * [Introdução](README.md)
+* [Introduction](readme-1.md)
 * [Orientações gerais de uso](orientacoes-gerais-de-uso.md)
+* [General Usage Guidelines](orientacoes-gerais-de-uso-1.md)
 * [Segurança da API](seguranca-da-api.md)
+* [API Security](seguranca-da-api-1.md)
 * [Terminologias comuns](terminologias-comuns.md)
+* [Common Terminologies](terminologias-comuns-1.md)
 
 ## Recursos da API
 
