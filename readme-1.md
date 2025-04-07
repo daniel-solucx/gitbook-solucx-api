@@ -4,7 +4,7 @@ description: >-
   API as the integration method.
 ---
 
-# Introduction
+# Introduction (english)
 
 **Requests and Responses**
 
@@ -16,29 +16,29 @@ API responses strictly follow web standards, returning status codes according to
 
 All requests must be made using the Base URL along with the resource endpoint to be accessed, or more precisely, the URI.
 
-{% content-ref url="seguranca-da-api.md" %}
-[seguranca-da-api.md](seguranca-da-api.md)
+{% content-ref url="seguranca-da-api-1.md" %}
+[seguranca-da-api-1.md](seguranca-da-api-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="orientacoes-gerais-de-uso.md" %}
-[orientacoes-gerais-de-uso.md](orientacoes-gerais-de-uso.md)
+{% content-ref url="orientacoes-gerais-de-uso-1.md" %}
+[orientacoes-gerais-de-uso-1.md](orientacoes-gerais-de-uso-1.md)
 {% endcontent-ref %}
 
-![Fluxos de integração API SoluCX](.gitbook/assets/api-integration.png)
+![SoluCX API Integration Flows](.gitbook/assets/api-integration.png)
 
 **Glossário**
 
-{% content-ref url="terminologias-comuns.md" %}
-[terminologias-comuns.md](terminologias-comuns.md)
+{% content-ref url="terminologias-comuns-1.md" %}
+[terminologias-comuns-1.md](terminologias-comuns-1.md)
 {% endcontent-ref %}
 
-#### **Métodos permitidos**
+#### Allow Method
 
-| Métodos    | Descrição                                                              |
-| ---------- | ---------------------------------------------------------------------- |
-| **POST**   | Criar novo objeto na plataforma.                                       |
-| **GET**    | Obter um objeto ou lista de objetos da plataforma.                     |
-| **PUT**    | Alterar um objeto presente na plataforma por meio de um Identificador. |
-| **DELETE** | Remove um objeto da plataforma por meio de um identificador.           |
+| Method     | Description                                                    |
+| ---------- | -------------------------------------------------------------- |
+| **POST**   | Create a new object on the platform.                           |
+| **GET**    | Retrieve an object or a list of objects from the platform.     |
+| **PUT**    | Update an existing object on the platform using an identifier. |
+| **DELETE** | Remove an object from the platform using an identifier.        |
 
-Para maior simplicidade, todas as chamadas são realizadas pela URL [https://api.solucx.com.br/public](https://api.solucx.com.br/public)
+For simplicity, all API calls are made through the base URL [https://api.solucx.com.br/public](https://api.solucx.com.br/public)
